@@ -1,2 +1,4 @@
+include ':base'
+include ':common:dimenadapter'
 include ':app'
 rootProject.name = "xlibrary"
